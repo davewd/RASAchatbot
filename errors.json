@@ -1,0 +1,42 @@
+[
+    {
+        "text": "good night",
+        "intent": "goodbye",
+        "intent_prediction": {
+            "name": "greet",
+            "confidence": 0.4291356676373006
+        }
+    },
+    {
+        "text": "good afternoon",
+        "intent": "goodbye",
+        "intent_prediction": {
+            "name": "greet",
+            "confidence": 0.4903591577322909
+        }
+    },
+    {
+        "text": "bye",
+        "intent": "goodbye",
+        "intent_prediction": {
+            "name": "greet",
+            "confidence": 0.5062677106248308
+        }
+    },
+    {
+        "text": "goodbye",
+        "intent": "goodbye",
+        "intent_prediction": {
+            "name": "greet",
+            "confidence": 0.49102139232998043
+        }
+    },
+    {
+        "text": "bye bye",
+        "intent": "goodbye",
+        "intent_prediction": {
+            "name": "greet",
+            "confidence": 0.5062677106248308
+        }
+    }
+]
